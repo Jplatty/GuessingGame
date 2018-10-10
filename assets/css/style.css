@@ -1,0 +1,95 @@
+body {
+
+    font-family: 'Fondamento', Georgia, 'Times New Roman', serif, cursive;
+
+    align-content: center;      
+
+    color: rgb(206, 247, 59);      
+
+    font-size: 1.5em;
+
+    font-weight: bold;
+
+    text-align:center;
+
+    vertical-align:center;
+
+    line-height: 36px;  
+    
+    background-color: black;
+
+}
+
+
+
+  .container {
+
+   width: 100%;
+
+    justify-content: center;
+
+    background-color: black;   
+
+}
+
+
+
+ 
+
+  .wrapper {
+
+    padding: 20px;
+
+  }
+
+
+
+  #won {
+
+    color: rgb(70, 223, 243);
+
+    font-size: 1.5em;
+
+  }
+
+
+
+  #lost {
+
+    color: red;
+
+    font-size: 1.5em;
+
+  }
+
+
+
+  #attempts {
+
+    color: green;
+
+    font-size: 1.2em;
+
+  }
+
+
+
+  #playerGuess {
+
+    color: blue;
+
+    font-size: 1.5em;
+
+  }
+
+
+
+  h1 {
+
+    font-size: 1.6em;
+
+  }
+
+  .header{
+      text-align: center;
+  }
